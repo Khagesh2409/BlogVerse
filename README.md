@@ -1,4 +1,4 @@
-# BlogVerse - Your Dynamic Blogging Haven
+# BlogVerse - Your Dynamic Blogging Platform
 
 ## Introduction
 
